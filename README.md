@@ -223,15 +223,12 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 
 ## Links and References
 
-- Project homepage: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection
-- Repository: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection.git
-- Issue tracker: https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection/issues
 - G. Ou, Y. Gao and Y. Liu, "Real TimeVehicularTrafficViolationDetectioninTrafficMonitorin gStream," in 2012 IEEE/WIC/ACM , Beijing, China , 2012.
 - X. Wang, L.-M. Meng, B. Zhang, J. Lu and K.-L.Du, "A Video-based Traffic Violation Detection System," in MEC, Shenyang, China, 2013.
 - PyQt: https://riverbankcomputing.com/software/pyqt/intro
 - opencv: https://docs.opencv.org/2.4/index.html
 - imutils: https://github.com/jrosebr1/imutils
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
+- In case of any help you may need from me, please contact nandhu16092020@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
 
