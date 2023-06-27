@@ -19,7 +19,6 @@ Go [here](#quick-starting-the-project) if you don't have time.
 ## Table of content
 
 - [TL;DR](#TL;DR)
-- [Motivation](#motivation)
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Quick Starting the project](#quick-starting-the-project)
@@ -36,11 +35,9 @@ Go [here](#quick-starting-the-project) if you don't have time.
 - [Contributing](#contributing)
 - [Links and References](#links-and-references)
 - [Author](#author)
-- [Licensing](#licensing)
 
-## Motivation
 
-This project is made for the third year second semester System Development(CSE-3200) course.
+
 
 ## Introduction
 
@@ -52,7 +49,6 @@ The goal of the project is to automate the traffic rules violation detection sys
 
 ## Quick starting the project
 
-1. `git clone https://github.com/rahatzamancse/EyeTask.git`
 2. Install required python dependencies from `requirements.txt` into your python virtual environment. (`pip install -r requirements.txt`)
 3. `python main.py`
 
@@ -239,18 +235,9 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 
 ## Author
 
-Rahat Zaman, Sakib Reza
-rahatzamancse@gmail.com
-Student at Department of Computer Science and Engineering
-Khulna University of Engineering & Technology, Khulna
-Bangladesh
-
-** Supervised under **
-Dr. Sk. Mohammad Masudul Ahsan
-Professor
-Dept. of Computer Science and Engineering
-Khulna University of Engineering & Technology
-
-## Licensing
-
-The code in this project is licensed under GNU GPLv3 license.
+Nandhagopal B, Kalidass S
+nandhu16092020@gmail.com
+Student at Department of Information Technology
+Velammal College Of Engineering And Technology
+Madurai,TamilNadu
+India
